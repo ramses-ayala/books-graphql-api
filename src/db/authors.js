@@ -11,4 +11,4 @@ export const authors = [
         "id": "3",
         "name": "someone special",
     }
-]
+];

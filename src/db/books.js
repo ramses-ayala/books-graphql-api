@@ -2,7 +2,7 @@ export const books = [
     {
         "id": "1",
         "title": "data science from scratch",
-        "author": "1"
+        "author": "1",
     },
     {
         "id": "2",
@@ -14,4 +14,4 @@ export const books = [
         "title": "job interviews",
         "author": "3"
     }
-]
+];
